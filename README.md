@@ -1,4 +1,4 @@
-🔄 Project Migration Note  
+> 🔄 **Project Migration Note**  
 This project was originally developed by me under a different GitHub account.  
 I’ve migrated it here to keep all my key projects under a single profile.  
 
